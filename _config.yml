@@ -2,7 +2,7 @@ title: UH Marketplace
 description: A Place to Record our Progress Throughout the Development of our Project
 google_analytics:
 show_downloads: false
-theme: minima
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/uh-marketplace/uh-marketplace.github.io
