@@ -45,7 +45,7 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
 
 ---
 
-## Mockup Pages
+## Mockup Pages (With Picture Example for Some)
 
 - **Landing Page** – Intro, login, and call-to-action
 - **Explore Page** – Browse all listings with filter chips (e.g., Clothes, Textbooks)
