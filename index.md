@@ -1,3 +1,8 @@
+---
+layout: default
+title: UH Marketplace
+---
+
 # UH Marketplace
 
 ## Table of Contents
