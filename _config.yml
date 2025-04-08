@@ -6,4 +6,6 @@ theme: default
 github:
   is_project_page: true
   repository_url: https://github.com/uh-marketplace/uh-marketplace.github.io
+gems:
+   - jekyll-mentions
 
