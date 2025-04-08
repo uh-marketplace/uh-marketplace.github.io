@@ -1,5 +1,5 @@
 ---
-layout: minima
+layout: jekyll-theme-cayman
 title: UH Marketplace
 ---
 
