@@ -33,7 +33,8 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
 
 ---
 
-## User Guide
+## User Guide 
+<!-- Each step should have a screenshot(eventually) and remove mockup pages since screenshots should be in User Guide -->
 
 1. **Sign Up** with your `@hawaii.edu` email.
 2. **Create a Profile** with basic information and contact preferences.
@@ -45,19 +46,44 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
 
 ---
 
-## Mockup Pages (With Picture Example for Some)
+## Mockup Pages
 
-- **Landing Page** – Intro, login, and call-to-action
+### Landing Page
+  
+  Intro, login, and call-to-action
+
   ![Landing Page Example](images/landingpage.png)
-- **Explore Page** – Browse all listings with filter chips (e.g., Clothes, Textbooks)
+
+### Explore Page
+  
+  Browse all listings with filter chips (e.g., Clothes, Textbooks)
+  
   ![Explore Page Example](images/explore.png)
-- **Item Detail Page** – Photo carousel, description, price, seller info, message button
-- **Post Item Page** – Upload pictures, select category, enter details
-- **Messages Page** – Chat interface with all message threads
+  
+### Item Detail Page
+
+Photo carousel, description, price, seller info, message button
+
+### Post Item Page
+
+Upload pictures, select category, enter details
+
+### Messages Page
+
+Chat interface with all message threads
+
   ![Messaging Page Example](images/messaging.png)
-- **Favorites Page** – User’s saved/hearted items
+
+### Favorites Page
+
+  User’s saved/hearted items
+
   ![Favorites Page Example](images/favorites.png)
-- **Profile Page** – Manage active listings and account preferences
+  
+### Profile Page
+
+Manage active listings and account preferences
+
   ![Profile Page Example](images/profilepage.png)
 
 ---
@@ -85,12 +111,27 @@ UH Marketplace is deeply integrated with the UH Manoa identity:
 
 ---
 
+## Community Feedback
+
+Not applicable at this time as UH Marketplace is currently in development.
+
+---
+
+## Developer Guide
+
+
+
+---
+
+## Development History
+
+Milestone 1
+
+---
+
 ## Team
 
-- **Project Lead & Developer:** [Your Name Here]
-- **Frontend/UI Design:** [Teammate Name]
-- **Backend & Deployment:** [Teammate Name]
-- **User Experience Research:** [Teammate Name]
+UH Marketplace is the result of a collaborative effort by [Hargun Juneja](https://coderfps.github.io), [Josh Golez](https://jetg0.github.io/), [Erhan Huang](https://erhan-huang23.github.io/), [Bryan Nakasone](https://bryannak.github.io/), [Koalani Okada](https://koalanik.github.io/), and [Jane Davis]().
 
 ---
 
