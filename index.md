@@ -1,4 +1,4 @@
-# Rainbow Market
+# UH Marketplace
 
 ## Table of Contents
 
@@ -14,17 +14,17 @@
 
 ## Overview
 
-**Rainbow Market** is a UH Manoa-exclusive online marketplace designed for students and faculty to buy, sell, and trade items like textbooks, furniture, electronics, clothes, and more. This app fosters sustainability, convenience, and campus connection by allowing only UH-verified users to post and explore listings.
+**UH Marketplace** is a UH Manoa-exclusive online marketplace designed for students and faculty to buy, sell, and trade items like textbooks, furniture, electronics, clothes, and more. This app fosters sustainability, convenience, and campus connection by allowing only UH-verified users to post and explore listings.
 
-Unlike general platforms like Facebook Marketplace, Rainbow Market prioritizes **security, simplicity, and community**—every user is authenticated with a `@hawaii.edu` email, and all transactions are arranged outside the app after users connect through in-app messaging.
+Unlike general platforms like Facebook Marketplace, UH Marketplace prioritizes **security, simplicity, and community**—every user is authenticated with a `@hawaii.edu` email, and all transactions are arranged outside the app after users connect through in-app messaging.
 
 ---
 
 ## Deployment
 
-Rainbow Market will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
+UH Marketplace will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
 
-GitHub Pages will be used to host this homepage (`rainbow-market.github.io`) with updates about the platform and progress.
+GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) with updates about the platform and progress.
 
 ---
 
@@ -67,7 +67,7 @@ GitHub Pages will be used to host this homepage (`rainbow-market.github.io`) wit
 
 ## UH Manoa Focus
 
-Rainbow Market is deeply integrated with the UH Manoa identity:
+UH Marketplace is deeply integrated with the UH Manoa identity:
 - Email verification restricted to @hawaii.edu domains
 - Interface includes UH-themed elements like rainbow icons, Mānoa green and white palette
 - Designed specifically for students’ and faculty’s on-campus needs
@@ -75,4 +75,13 @@ Rainbow Market is deeply integrated with the UH Manoa identity:
 
 ---
 
-> 🌈 Rainbow Market – A sustainable way to trade on campus. Built with aloha by UH Manoa students.
+## Team
+
+- **Project Lead & Developer:** [Your Name Here]
+- **Frontend/UI Design:** [Teammate Name]
+- **Backend & Deployment:** [Teammate Name]
+- **User Experience Research:** [Teammate Name]
+
+---
+
+> 🌈 UH Marketplace – A sustainable way to trade on campus. Built with aloha by UH Manoa students.
