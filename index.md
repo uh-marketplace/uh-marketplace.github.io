@@ -48,12 +48,17 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
 ## Mockup Pages (With Picture Example for Some)
 
 - **Landing Page** – Intro, login, and call-to-action
+  ![Landing Page Example](images/landingpage.png)
 - **Explore Page** – Browse all listings with filter chips (e.g., Clothes, Textbooks)
+  ![Explore Page Example](images/explore.png)
 - **Item Detail Page** – Photo carousel, description, price, seller info, message button
 - **Post Item Page** – Upload pictures, select category, enter details
 - **Messages Page** – Chat interface with all message threads
+  ![Messaging Page Example](images/messaging.png)
 - **Favorites Page** – User’s saved/hearted items
+  ![Favorites Page Example](images/favorites.png)
 - **Profile Page** – Manage active listings and account preferences
+  ![Profile Page Example](images/profilepage.png)
 
 ---
 
