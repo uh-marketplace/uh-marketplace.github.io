@@ -2,7 +2,7 @@ title: BowFolios
 description: Profiles, Projects, and Interests for the UH Community
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: default
 github:
   is_project_page: true
   repository_url: https://github.com/uh-marketplace/uh-marketplace.github.io
