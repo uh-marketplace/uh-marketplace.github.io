@@ -4,6 +4,9 @@ title: UH Marketplace
 ---
 
 # UH Marketplace
+- [UH Marketplace Homepage](https://uh-marketplace.github.io/)
+- [UH Marketplace Application Repository](https://github.com/uh-marketplace/uh-marketplace)
+- [UH Marketplace Organization](https://github.com/uh-marketplace)
 
 ## Table of Contents
 
