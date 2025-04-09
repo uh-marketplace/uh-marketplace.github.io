@@ -136,6 +136,7 @@ Milestone 1
 
 UH Marketplace is the result of a collaborative effort by [Hargun Juneja](https://coderfps.github.io), [Josh Golez](https://jetg0.github.io/), [Erhan Huang](https://erhan-huang23.github.io/), [Bryan Nakasone](https://bryannak.github.io/), [Koalani Okada](https://koalanik.github.io/), and [Jane Davis]().
 
+### [Team Contract](https://docs.google.com/document/d/1Qr5srEUYRbho0C7N1dZCK7TkM8Z79O9a-bVXQLBjdUc/edit?usp=sharing)
 ---
 
 > 🌈 UH Marketplace – A sustainable way to trade on campus. Built with aloha by UH Manoa students.
