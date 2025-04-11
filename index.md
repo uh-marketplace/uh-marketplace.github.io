@@ -21,15 +21,9 @@ title: UH Marketplace
 
 ---
 
-## Deployment
-
-[UH Marketplace]() <!-- add link to deployed application in parethesis -->
-
----
-
 ## Overview
 
-**UH Marketplace** is a UH Manoa-exclusive online marketplace designed for students and faculty to buy, sell, and trade items like textbooks, furniture, electronics, clothes, and more. This app fosters sustainability, convenience, and campus connection by allowing only UH-verified users to post and explore listings.
+UH Marketplace is a UH Manoa-exclusive online marketplace designed for students and faculty to buy, sell, and trade items like textbooks, furniture, electronics, clothes, and more. This app fosters sustainability, convenience, and campus connection by allowing only UH-verified users to post and explore listings.
 
 Unlike general platforms like Facebook Marketplace, UH Marketplace prioritizes **security, simplicity, and community**—every user is authenticated with a `@hawaii.edu` email, and all transactions are arranged outside the app after users connect through in-app messaging.
 
@@ -37,7 +31,7 @@ Unlike general platforms like Facebook Marketplace, UH Marketplace prioritizes *
 
 ## Deployment
 
-UH Marketplace will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
+[UH Marketplace]() <!-- add link to deployed application in parethesis -->will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
 
 GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) with updates about the platform and progress.
 
