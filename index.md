@@ -23,7 +23,7 @@ title: UH Marketplace
 
 ## Deployment
 
-
+[UH Marketplace]() <!-- add link to deployed application in parethesis -->
 
 ---
 
@@ -131,8 +131,10 @@ For Milestone 1 we focused on the visuals of our project to get our skeleton of 
 
 Mockup Pages
 
+<!-- Add image path in parenthesis -->
+
 - Landing Page
-  ![Landing Page]()
+  ![Landing Page]() 
 
 
 - Explore Page
