@@ -134,7 +134,7 @@ Mockup Pages
 
 - Explore Page
   
-![Explore Page](images/ExplorePage.png)
+![Explore Page](images/explorpageeh.png)
 
   
 - Profile Page
