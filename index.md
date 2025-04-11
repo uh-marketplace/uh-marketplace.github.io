@@ -5,7 +5,7 @@ title: UH Marketplace
 
 # UH Marketplace
 - [UH Marketplace Homepage](https://uh-marketplace.github.io/)
-- [UH Marketplace Application Repository](https://github.com/uh-marketplace/uh-marketplace)
+- [UH Marketplace Application Repository](https://github.com/uh-marketplace/uh-marketplace-app)
 - [UH Marketplace Organization](https://github.com/uh-marketplace)
 
 ## Table of Contents
@@ -117,7 +117,7 @@ UH Marketplace is deeply integrated with the UH Manoa identity:
 
 ## Milestones
 
-### [M1 Project](https://github.com/orgs/uh-marketplace/projects/3)
+### [M1 Project](https://github.com/orgs/uh-marketplace/projects/6)
 
 For Milestone 1 we focused on the visuals of our project to get our skeleton of the project up and running. Completing our landing page, mockup pages, and deploying our application to Vercel were the most important issues we had to complete for milestone 1.
 
@@ -152,7 +152,7 @@ Mockup Pages
 ![Messages Page]()
 
 
-## [M2 Project](https://github.com/orgs/uh-marketplace/projects/5)
+## [M2 Project](https://github.com/orgs/uh-marketplace/projects/7)
 
 In progress...
 
