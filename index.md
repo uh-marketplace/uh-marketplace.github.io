@@ -134,12 +134,12 @@ Mockup Pages
 
 - Explore Page
   
-![Explore Page]()
+![Explore Page](images/ExplorePage.png)
 
   
 - Profile Page
   
-![Profile Page](image/ProfilePage.png)
+![Profile Page](images/ProfilePage.png)
 
 
 - Favorites Page
@@ -149,7 +149,7 @@ Mockup Pages
 
 - Messages Page
 
-![Messages Page]()
+![Messages Page](images/MessagesPage.png)
 
 
 ## [M2 Project](https://github.com/orgs/uh-marketplace/projects/7)
