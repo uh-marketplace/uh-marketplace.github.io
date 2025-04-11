@@ -16,7 +16,14 @@ title: UH Marketplace
 * [Mockup Pages](#mockup-pages)
 * [Features](#features)
 * [UH Manoa Focus](#uh-manoa-focus)
+* [Milestones](#milestones)
 * [Team](#team)
+
+---
+
+## Deployment
+
+
 
 ---
 
@@ -111,6 +118,42 @@ UH Marketplace is deeply integrated with the UH Manoa identity:
 - Interface includes UH-themed elements like rainbow icons, Mānoa green and white palette
 - Designed specifically for students’ and faculty’s on-campus needs
 - Encourages sustainable reuse and affordability
+
+---
+
+## Milestones
+
+### [M1 Project](https://github.com/orgs/uh-marketplace/projects/3)
+
+For Milestone 1 we focused on the visuals of our project to get our skeleton of the project up and running. Completing our landing page, mockup pages, and deploying our application to Vercel were the most important issues we had to complete for milestone 1.
+
+[Project deployed to Vercel]()
+
+Mockup Pages
+
+- Landing Page
+  ![Landing Page]()
+
+
+- Explore Page
+  ![Explore Page]()
+
+  
+- Profile Page
+  ![Profile Page]()
+
+
+- Favorites Page
+  ![Favorites Page]()
+
+
+- Messages Page
+  ![Messages Page]()
+
+
+## [M2 Project]()
+
+In progress...
 
 ---
 
