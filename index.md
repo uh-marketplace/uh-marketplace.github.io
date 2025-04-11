@@ -128,23 +128,28 @@ Mockup Pages
 <!-- Add image path in parenthesis -->
 
 - Landing Page
-  ![Landing Page]() 
+
+![Landing Page]() 
 
 
 - Explore Page
-  ![Explore Page]()
+  
+![Explore Page]()
 
   
 - Profile Page
-  ![Profile Page]()
+  
+![Profile Page]()
 
 
 - Favorites Page
-  ![Favorites Page]()
+  
+![Favorites Page]()
 
 
 - Messages Page
-  ![Messages Page]()
+
+![Messages Page]()
 
 
 ## [M2 Project]()
