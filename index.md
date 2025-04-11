@@ -129,7 +129,7 @@ Mockup Pages
 
 - Landing Page
 
-![Landing Page]() 
+![Landing Page](images/image.png) 
 
 
 - Explore Page
@@ -139,7 +139,7 @@ Mockup Pages
   
 - Profile Page
   
-![Profile Page]()
+![Profile Page](image/ProfilePage.png)
 
 
 - Favorites Page
