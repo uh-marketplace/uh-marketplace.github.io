@@ -7,6 +7,7 @@ title: UH Marketplace
 - [UH Marketplace Homepage](https://uh-marketplace.github.io/)
 - [UH Marketplace Application Repository](https://github.com/uh-marketplace/uh-marketplace-app)
 - [UH Marketplace Organization](https://github.com/uh-marketplace)
+- [Deployed App Link](https://uh-marketplace-app.vercel.app/)
 
 ## Table of Contents
 
@@ -154,7 +155,6 @@ Mockup Pages
 
 ## [M2 Project](https://github.com/orgs/uh-marketplace/projects/7)
 
-In progress...
 
 ---
 
