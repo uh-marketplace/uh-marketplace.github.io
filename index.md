@@ -122,7 +122,7 @@ UH Marketplace is deeply integrated with the UH Manoa identity:
 
 For Milestone 1 we focused on the visuals of our project to get our skeleton of the project up and running. Completing our landing page, mockup pages, and deploying our application to Vercel were the most important issues we had to complete for milestone 1.
 
-[Project deployed to Vercel]()
+[Project deployed to Vercel](https://uh-marketplace-app.vercel.app/)
 
 Mockup Pages
 
