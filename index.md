@@ -145,7 +145,7 @@ Mockup Pages
 
 - Favorites Page
   
-![Favorites Page]()
+![Favorites Page](images/FavoritesMockup.png)
 
 
 - Messages Page
