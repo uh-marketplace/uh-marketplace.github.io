@@ -36,6 +36,8 @@ Unlike general platforms like Facebook Marketplace, UH Marketplace prioritizes *
 
 GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) with updates about the platform and progress.
 
+[![ci-uh-marketplace-app](https://github.com/uh-marketplace/uh-marketplace-app/actions/workflows/ci.yml/badge.svg)](https://github.com/uh-marketplace/uh-marketplace-app/actions/workflows/ci.yml)
+
 ---
 
 ## User Guide 
