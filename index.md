@@ -157,7 +157,14 @@ Mockup Pages
 
 ## [M2 Project](https://github.com/orgs/uh-marketplace/projects/7)
 
+For Milestone 2 we focused on core functionality by integrating the database and implementing key user features. Creating the Explore, Favorites, Profile, and Messages pages, enabling users to read and write data, and setting up Playwright tests and CI on GitHub Actions were the most important issues we had to complete for milestone 2.
 
+- Add Page – [Live Page](https://uh-marketplace-app.vercel.app/add)  
+  ![Add Page](images/UpdatedAdd.png)
+
+- Explore Page – [Live Page](https://uh-marketplace-app.vercel.app/explore)  
+  ![Explore Page](images/updatedExplore.png)
+  
 ---
 
 ## Community Feedback
