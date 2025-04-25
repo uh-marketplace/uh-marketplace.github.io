@@ -164,7 +164,10 @@ For Milestone 2 we focused on core functionality by integrating the database and
 
 - Explore Page – [Live Page](https://uh-marketplace-app.vercel.app/explore)  
   ![Explore Page](images/updatedExplore.png)
-  
+
+- Landing Page – [Live Page](https://uh-marketplace-app.vercel.app)  
+  ![Explore Page](images/UpdatedLandingPage.png)
+  Every button works.
 ---
 
 ## Community Feedback
