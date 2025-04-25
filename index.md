@@ -170,6 +170,116 @@ For Milestone 2 we focused on core functionality by integrating the database and
   Every button works.
 ---
 
+## Development
+
+First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
+
+```
+
+$ createdb nextjs-application-template
+Password:
+$
+
+```
+
+Second, go to [https://github.com/uh-marketplace/uh-marketplace-app](https://github.com/uh-marketplace/uh-marketplace-app), and click the "Code" button. You can either clone the repo thru Github Desktop or with git clone to download the repo to your local file system.
+
+Third, cd into the directory of your local copy of the repo, and install third party libraries with:
+
+```
+
+$ npm install
+
+```
+
+Fifth, create a `.env` file from the `sample.env`. Set the `DATABASE_URL` variable to match your PostgreSQL database that you created in the first step. See the Prisma docs [Connect your database](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/connect-your-database-typescript-postgresql). Then run the Prisma migration `npx prisma migrate dev` to set up the PostgreSQL tables.
+
+```
+
+$ npx prisma migrate dev
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Datasource "db": PostgreSQL database "<your database name>", schema "public" at "localhost:5432"
+
+Applying migration `20240708195109_init`
+
+The following migration(s) have been applied:
+
+migrations/
+└─ 20240708195109_init/
+└─ migration.sql
+
+Your database is now in sync with your schema.
+
+✔ Generated Prisma Client (v5.16.1) to ./node_modules/@prisma/client in 51ms
+
+$
+
+```
+
+Then seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
+
+```
+
+$ npx prisma db seed
+Environment variables loaded from .env
+Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
+Seeding the database
+  Creating user: admin@foo.com with role: ADMIN
+  Creating user: john@foo.com with role: USER
+  Adding stuff: {"name":"Basket","quantity":3,"owner":"john@foo.com","condition":"excellent"}
+  Adding stuff: {"name":"Bicycle","quantity":2,"owner":"john@foo.com","condition":"poor"}
+  Adding stuff: {"name":"Banana","quantity":2,"owner":"admin@foo.com","condition":"good"}
+  Adding stuff: {"name":"Boogie Board","quantity":2,"owner":"admin@foo.com","condition":"excellent"}
+  Adding item: {"name":"Keyboard","condition":"fair","price":199.99,"location":"Campus Center","owner":"john@foo.com","imageUrl":"https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","description":"Used Keychron K2 Mechanical Wireless Keyboard."}
+  Adding item: {"name":"Laptop","condition":"good","price":899.99,"location":"Hamilton Library","owner":"admin@foo.com","imageUrl":"https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","description":"Lightly used M1 Macbook Air with 16GB RAM and 512GB SSD."}
+  Adding item: {"name":"Headphones","condition":"excellent","price":299.99,"location":"Paradise Palms","owner":"john@foo.com","imageUrl":"https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","description":"Sony WH-1000XM4 noise-canceling headphones."}
+🌱 Seeding complete
+
+🌱  The seed command has been executed.
+$
+
+```
+
+### Running the system
+
+Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script:
+
+```
+
+$ npm run dev
+
+> nextjs-application-template-1@0.1.0 dev
+> next dev
+
+▲ Next.js 14.2.4
+
+- Local: http://localhost:3000
+- Environments: .env
+
+✓ Starting...
+✓ Ready in 1619ms
+
+```
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/uh-marketplace/uh-marketplace-app/blob/main/config/settings.development.json), or else register a new account.
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the src/ directory with:
+
+```
+$ npm run lint
+
+> nextjs-application-template-1@0.1.0 lint
+> next lint
+
+✔ No ESLint warnings or errors
+$
+```
+
 ## Community Feedback
 
 Not applicable at this time as UH Marketplace is currently in development.
