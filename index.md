@@ -75,11 +75,6 @@ Photo carousel, description, price, seller info, message button
 
 Upload pictures, select category, enter details
 
-### Messages Page
-
-Chat interface with all message threads
-
-  ![Messaging Page Example](images/messaging.png)
 
 ### Favorites Page
 
