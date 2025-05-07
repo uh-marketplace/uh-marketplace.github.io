@@ -167,7 +167,7 @@ For Milestone 2 we focused on core functionality by integrating the database and
 
 ## [M3 Project](https://github.com/orgs/uh-marketplace/projects/8/views/1?layout=board)
 
-In development...
+For Milestone 3, we focused on enhancing the overall functionality and user experience of our application as we approached the final stages of the project. This included refining existing features, addressing bugs, and optimizing performance to ensure a seamless experience for our users. We gathered and integrated real data into our database, allowing us to validate the system's functionality with realistic scenarios and improve its reliability. These efforts brought us closer to delivering a polished and fully functional product.
 
 ## Development
 
