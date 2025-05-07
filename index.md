@@ -169,6 +169,25 @@ For Milestone 2 we focused on core functionality by integrating the database and
 
 For Milestone 3, we focused on enhancing the overall functionality and user experience of our application as we approached the final stages of the project. This included refining existing features, addressing bugs, and optimizing performance to ensure a seamless experience for our users. We gathered and integrated real data into our database, allowing us to validate the system's functionality with realistic scenarios and improve its reliability. These efforts brought us closer to delivering a polished and fully functional product.
 
+- [Landing Page](https://uh-marketplace-app.vercel.app/)
+![Landing Page](images/landingPageM3.png)
+![Landing Page](images/landingPageM3_2.png)
+
+- [Explore Page](https://uh-marketplace-app.vercel.app/explore)
+![Explore Page](images/explorePageM3.png)
+
+  
+- [Profile Page](https://uh-marketplace-app.vercel.app/profile)
+![Profile Page](images/profilePageM3.png)
+
+- Profile Page (Other Accounts)
+![Profile Page (Other Accounts)](images/)
+
+- [Favorites Page](https://uh-marketplace-app.vercel.app/favorites)
+![Favorites Page](images/favoritesPageM3.png)
+
+- []()
+
 ## Development
 
 First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for your application.
