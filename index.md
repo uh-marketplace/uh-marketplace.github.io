@@ -300,7 +300,14 @@ $
 
 ## Community Feedback
 
-Not applicable at this time as UH Marketplace is currently in development.
+Quang: Good: "Easy to use UI Bad: Needs to have more options for the user like for example, add like a credibility feature so people don’t get scammed."
+
+Donnie: "The UI is really clean and easy to navigate. I dont like how it sends you to the add a product page after you register, i think it should send u to the home page. I like how theres a search bar and a favorites page but a small thing is when u look at someones profile all their listings are marked as favorited idk if that was intentional. Another small thing is i think clicking on the picture should also open up the little window
+but overall very nice."
+
+Kendric: "Interface is nice, easy to naviagte good colorway, but when adding an item personally, the containers are too close in the profile section."
+
+
 
 ---
 
