@@ -1,4 +1,3 @@
-![Bio](https://github.com/user-attachments/assets/9b32d554-007a-4055-82c8-421c9bbc3502)---
 layout: default
 title: UH Marketplace
 ---
