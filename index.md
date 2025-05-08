@@ -46,7 +46,7 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
    ![SignUp](https://github.com/user-attachments/assets/142f7f88-356c-4638-8754-c9c3106d956e)
 
 2. **Create a Profile** with basic information and contact preferences.!
-![Bio](https://github.com/user-attachments/assets/1beff3f4-dcf9-49bf-833a-9ef1410e95b1)
+   ![Bio](https://github.com/user-attachments/assets/1beff3f4-dcf9-49bf-833a-9ef1410e95b1)
 
 3. **Post Items** for sale or trade, including photos, descriptions, and prices.
    ![post](https://github.com/user-attachments/assets/986ad173-9d66-41dc-8222-0ec1914dc281)
