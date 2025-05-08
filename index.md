@@ -1,8 +1,3 @@
----
-layout: default
-title: UH Marketplace
----
-
 # UH Marketplace
 - [UH Marketplace Homepage](https://uh-marketplace.github.io/)
 - [UH Marketplace Application Repository](https://github.com/uh-marketplace/uh-marketplace-app)
