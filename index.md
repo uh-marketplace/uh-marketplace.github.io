@@ -1,4 +1,4 @@
----
+![Bio](https://github.com/user-attachments/assets/9b32d554-007a-4055-82c8-421c9bbc3502)---
 layout: default
 title: UH Marketplace
 ---
@@ -32,7 +32,7 @@ Unlike general platforms like Facebook Marketplace, UH Marketplace prioritizes *
 
 ## Deployment
 
-[UH Marketplace]() <!-- add link to deployed application in parethesis -->will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
+[UH Marketplace](https://uh-marketplace-app.vercel.app/) <!-- add link to deployed application in parethesis -->will be deployed using **Vercel**, ensuring fast and reliable delivery of the app. Our project codebase is maintained in GitHub and built using Next.js and Bootstrap 5.
 
 GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) with updates about the platform and progress.
 
@@ -44,49 +44,19 @@ GitHub Pages will be used to host this homepage (`uh-marketplace.github.io`) wit
 <!-- Each step should have a screenshot(eventually) and remove mockup pages since screenshots should be in User Guide -->
 
 1. **Sign Up** with your `@hawaii.edu` email.
-2. **Create a Profile** with basic information and contact preferences.
+   ![SignUp](https://github.com/user-attachments/assets/142f7f88-356c-4638-8754-c9c3106d956e)
+
+2. **Create a Profile** with basic information and contact preferences.!
+![Bio](https://github.com/user-attachments/assets/1beff3f4-dcf9-49bf-833a-9ef1410e95b1)
+
 3. **Post Items** for sale or trade, including photos, descriptions, and prices.
+   ![post](https://github.com/user-attachments/assets/986ad173-9d66-41dc-8222-0ec1914dc281)
+
 4. **Explore Listings** using filters for category, price, date posted, and more.
+   ![image](https://github.com/user-attachments/assets/424d13b3-73f4-40f2-b61a-5f21f56836e6)
+
 5. **Favorite Items** to save them to your account's "heart list."
-6. **Message Sellers** via private chat to arrange a trade or purchase.
-7. **Mark Posts as Sold/Traded** after the deal is completed.
-
----
-
-## Mockup Pages
-
-### Landing Page
-  
-  Intro, login, and call-to-action
-
-  ![Landing Page Example](images/landingpage.png)
-
-### Explore Page
-  
-  Browse all listings with filter chips (e.g., Clothes, Textbooks)
-  
-  ![Explore Page Example](images/explore.png)
-  
-### Item Detail Page
-
-Photo carousel, description, price, seller info, message button
-
-### Post Item Page
-
-Upload pictures, select category, enter details
-
-
-### Favorites Page
-
-  User’s saved/hearted items
-
-  ![Favorites Page Example](images/favorites.png)
-  
-### Profile Page
-
-Manage active listings and account preferences
-
-  ![Profile Page Example](images/profilepage.png)
+   ![image](https://github.com/user-attachments/assets/7ebfeb88-dcdd-40fc-bcf1-1059f78e67e2)
 
 ---
 
