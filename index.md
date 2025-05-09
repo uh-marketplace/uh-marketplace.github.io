@@ -274,6 +274,8 @@ Kendric: "Interface is nice, easy to naviagte good colorway, but when adding an 
 
 Matthew: "I think overall the design is very straightforward and easy to navigate (i like the ui and how listings popup without having to load a new tab), however it may also be too simple. Areas like the top picks section when going to the explore tab could be improved on by including a view count for each item and have them be ranked from highest to lowest for the day. I also think the area for inputting images in the item listing creation area could be simplified by including other ways to input the image besides url (ex: button that leads to opening camera roll or browsing files on the computer). I also feel like the area to expand the listing when browsing could be bigger. The only way to expand the listing is by clicking on the title, however, i think most people would gravitate to clicking on the image instead (which leads to no response)."
 
+Colby: "Unfortunately I was unable to use this application on a computer, so I used by phone instead. Overall I liked how simple the UI was but I feel like the dropdown menu was a little bit bugged, I wish there were more features to interact and message the seller as well."
+
 ---
 
 ## Team
