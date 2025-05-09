@@ -151,7 +151,10 @@ For Milestone 3, we focused on enhancing the overall functionality and user expe
 - [Favorites Page](https://uh-marketplace-app.vercel.app/favorites)
 ![Favorites Page](images/favoritesPageM3.png)
 
-- []()
+Additional Features:
+- Search bar is working.
+- Can access user profiles through item posts.
+- Can click on a post for more in-depth information on items.
 
 ## Development
 
