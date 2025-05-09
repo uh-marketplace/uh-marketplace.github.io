@@ -146,7 +146,7 @@ For Milestone 3, we focused on enhancing the overall functionality and user expe
 ![Profile Page](images/profilePageM3.png)
 
 - Profile Page (Other Accounts)
-![Profile Page (Other Accounts)](images/)
+![Profile Page (Other Accounts)](images/otherProfile.png)
 
 - [Favorites Page](https://uh-marketplace-app.vercel.app/favorites)
 ![Favorites Page](images/favoritesPageM3.png)
